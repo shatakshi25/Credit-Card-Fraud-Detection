@@ -9,5 +9,4 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 
 # Dataset
-The dataset can be downloaded from Kaggle
-url: https://www.kaggle.com/mlg-ulb/creditcardfraud
+The dataset can be downloaded from Kaggle by using the url: https://www.kaggle.com/mlg-ulb/creditcardfraud
